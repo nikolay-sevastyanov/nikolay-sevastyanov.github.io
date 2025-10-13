@@ -14,21 +14,21 @@
 <br>
 
 ## 2. Анализ рынка видео-игр 1980-2017г.  <br>
-###### Датасет: [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
+### Датасет: [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 ######
 
 ## 3. Анализ финансовой отчетности McDonalds LLC 2002-2022 г.
-###### Датасет: [McDonald's Financial Statements](https://www.kaggle.com/datasets/mikhail1681/mcdonalds-financial-statements-2002-2022)
+### Датасет: [McDonald's Financial Statements](https://www.kaggle.com/datasets/mikhail1681/mcdonalds-financial-statements-2002-2022)
 
 ######
 
 ## 4. Анализ отзывов к фильмам на IMDB
-###### Датасет: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+### Датасет: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ######
 
 ## 5. Анализ продаж авокадо в США 2015-2018 года
 
 ######
-###### Датасет: [Avocado Prices and Sales Volume 2015-2023](https://www.kaggle.com/datasets/vakhariapujan/avocado-prices-and-sales-volume-2015-2023)
+### Датасет: [Avocado Prices and Sales Volume 2015-2023](https://www.kaggle.com/datasets/vakhariapujan/avocado-prices-and-sales-volume-2015-2023)
