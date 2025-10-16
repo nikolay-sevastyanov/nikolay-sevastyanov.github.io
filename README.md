@@ -45,6 +45,7 @@
  7. Пики продаж игр на консоли происходят в первые 5 лет после ее выхода. <br> <br>
  <img src="images/video_game_sales/vg_sales_year_platform1.png" alt="vg_sales_year_platform1.png" width="300" height="300"> <br> <br>
  8. Только на PC и Nintendo DS игры выходят более 30 лет после появления этих платформ <br> <br>
+ <img src="images/video_game_sales/vg_platform_time_in_market.png" alt="vg_platform_time_in_market.png" width="300" height="300"> <br> <br>
  9. В Японии, Америке и Европе самым успешным издателем 1980-2025г. была Nintendo. В других регионах - Electronic Arts. <br> <br>
  10. За 1980-2017 г. во всем мире, кроме Японии, самым прибыльным жанром видео-игр оставлся экшн. В Японии же самый прибыльный жанр - RPG. <br> <br> <br>
 
