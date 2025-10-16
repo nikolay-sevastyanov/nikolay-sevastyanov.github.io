@@ -32,7 +32,8 @@
 ### Ключевые бизнес-инсайты: <br> <br>
  1. Издатель Nintendo является ключевым игроком на рынке платных видео-игр с общей суммой мировых продаж за 1980-2017г. - 1, 7 млрд $ <br> <br>
  <img src="images/video_game_sales/vg_total_market_cap_publisher.png" alt="vg_total_market_cap_publisher.png" width="300" height="300"> <br> <br>
- 2. Издатели Electronic Arts, Activision, Sony Computer Entertainment и Ubisoft совокупно собрали общую сумму мировых продаж в 2,9 млрд $, оставаясь крупными игроками на рынке платных видео-игр 
+ 2. Издатели Electronic Arts, Activision, Sony Computer Entertainment и Ubisoft совокупно собрали общую сумму мировых продаж в 2,9 млрд $, оставаясь крупными игроками на рынке платных видео-игр <br> <br>
+ <img src="images/video_game_sales/vg_sales_publisher.png" alt="vg_sales_publisher.png" width="300" height="300"> <br> <br>
  3. Наиболее популярные жанры видео-игр за 1980-2017г. - экшн, спорт и шутер. 
  4. Игры на консолях PS1, PS2, PS3, XBOX360, Nintendo DS и Wii за 1980-2017г. принесли издателям наибольшее кол-во денег. 
  5. Пик продаж платных видео-игр наблюдался в 2008-2010 годах, далее рынок пошел на спад до сегодняшнего дня. 
