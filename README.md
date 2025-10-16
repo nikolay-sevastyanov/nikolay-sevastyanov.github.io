@@ -80,7 +80,7 @@ Global_Sales max
 ## 3. Анализ финансовой отчетности McDonalds LLC 2002-2022 г.
 ### Датасет: [McDonald's Financial Statements](https://www.kaggle.com/datasets/mikhail1681/mcdonalds-financial-statements-2002-2022)
 ### Инструменты: PostgreSQL, PowerBI <br> <br>
-<img src="images/McDonalds_Fin/ad_hoc.png" alt="ad_hoc.png" width="300" height="300"> <br> <br>
+<img src="images/McDonalds_Fin/ad_hoc.png" alt="ad_hoc.png" width="600" height="300"> <br> <br>
 ### Ключевые бизнес-инсайты:
 1. Рост капитализации акций McDonalds, несмотря не кризисы и нарушения цепочек поставок, продолжает идти стабильно, 20 млрд $ в год. (за  20 лет капитализация увеличилась почти в 10 раз). Mcdonalds продолжает быть стабильным источником роста инвестиционного портфеля и прибыли.
 2. с 2008 по 2017 г. компания держала доходность по дивидендам в районе 3%. В остальное время она оставалась (и остается) ниже 2%.
