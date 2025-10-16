@@ -35,8 +35,9 @@
  2. Издатели Electronic Arts, Activision, Sony Computer Entertainment и Ubisoft совокупно собрали общую сумму мировых продаж в 2,9 млрд $, оставаясь крупными игроками на рынке платных видео-игр <br> <br>
  <img src="images/video_game_sales/vg_sales_publisher.png" alt="vg_sales_publisher.png" width="300" height="300"> <br> <br>
  3. Наиболее популярные жанры видео-игр за 1980-2017г. - экшн, спорт и шутер. <br> <br>
- <img src="images/video_game_sales/vg_sales_genre.png" alt="vg_sales_genre.png" width="300" height="300">
+ <img src="images/video_game_sales/vg_sales_genre.png" alt="vg_sales_genre.png" width="300" height="300"> <br> <br>
  4. Игры на консолях PS1, PS2, PS3, XBOX360, Nintendo DS и Wii за 1980-2017г. принесли издателям наибольшее кол-во денег. <br> <br>
+ <img src="images/video_game_sales/vg_sales_platform.png" alt="vg_sales_platform" width="300" height="300"> <br> <br>
  5. Пик продаж платных видео-игр наблюдался в 2008-2010 годах, далее рынок пошел на спад до сегодняшнего дня. <br> <br>
  6. Nintendo, Sony и Activision за 2000-2015г. показывали наиболее стабильные годовые продажи видео-игр в среднем от 50 млн. $ . <br> <br>
  7. Пики продаж игр на консоли происходят в первые 5 лет после ее выхода. <br> <br>
