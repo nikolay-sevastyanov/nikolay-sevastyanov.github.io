@@ -10,7 +10,7 @@
    b. По дням недели, пик посещения приходит на понедельник, вторник и субботу. Воскресение - день с самым низким потоком клиентов. <br> <br>
    <img src="images/coffee_sales/coffee_sales_weekday.png" alt="coffee_sales_weekday.png" width="300" height="300"> <br> <br>
    c. По месяцам, самое "ходовое" время происходит на осень - август-ноябрь, и конец зимы - февраль. В январе и июле происходит минимум продаж кофейных напитков. <br> <br>
-   <img src="images/coffee_sales/coffee_sales_type.png" alt="coffee_sales_type.png" width="300" height="300"> <br> <br>
+   <img src="images/coffee_sales/coffee_sales_month.png" alt="coffee_sales_month.png" width="600" height="300"> <br> <br>
  3. Предпочтения клиентов: <br>  <br>
    a. Самые популярные кофейные напитки: американо, каппучино, американо с молоком, латте <br> <br>
    img src="images/coffee_sales/coffee_sales_month.png" alt="coffee_sales_month.png" width="600" height="300"> <br> <br>
