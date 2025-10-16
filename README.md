@@ -48,18 +48,25 @@
  <img src="images/video_game_sales/vg_platform_time_in_market.png" alt="vg_platform_time_in_market.png" width="300" height="300"> <br> <br>
  9. В Японии, Америке и Европе самым успешным издателем 1980-2025г. была Nintendo. В других регионах - Electronic Arts. <br> <br>
  ```
-    Genre   NA_Sales
-0  Action  877829996
+NA_Sales max
+    Publisher   NA_Sales   EU_Sales   JP_Sales  Other_Sales  Global_Sales  TotalMarketCap%
+360  Nintendo  816869996  418739997  455419999     95329999    1786559997               20
 ----------------------------------------------------------------------------------------------------
-    Genre   EU_Sales
-0  Action  524999997
+EU_Sales max
+    Publisher   NA_Sales   EU_Sales   JP_Sales  Other_Sales  Global_Sales  TotalMarketCap%
+360  Nintendo  816869996  418739997  455419999     95329999    1786559997               20
 ----------------------------------------------------------------------------------------------------
-          Genre   JP_Sales
-7  Role-Playing  352309999
+JP_Sales max
+    Publisher   NA_Sales   EU_Sales   JP_Sales  Other_Sales  Global_Sales  TotalMarketCap%
+360  Nintendo  816869996  418739997  455419999     95329999    1786559997               20
 ----------------------------------------------------------------------------------------------------
-    Genre  Other_Sales
-0  Action    187379998
+Other_Sales max
+           Publisher   NA_Sales   EU_Sales  JP_Sales  Other_Sales  Global_Sales  TotalMarketCap%
+139  Electronic Arts  595069993  371270000  14040000    129769999    1110319993               12
 ----------------------------------------------------------------------------------------------------
+Global_Sales max
+    Publisher   NA_Sales   EU_Sales   JP_Sales  Other_Sales  Global_Sales  TotalMarketCap%
+360  Nintendo  816869996  418739997  455419999     95329999    1786559997               20
 ```
  10. За 1980-2017 г. во всем мире, кроме Японии, самым прибыльным жанром видео-игр оставлся экшн. В Японии же самый прибыльный жанр - RPG. <br> <br> <br>
 
