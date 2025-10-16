@@ -41,6 +41,7 @@
  5. Пик продаж платных видео-игр наблюдался в 2008-2010 годах, далее рынок пошел на спад до сегодняшнего дня. <br> <br>
  <img src="images/video_game_sales/vg_sales_year.png" alt="vg_sales_year.png" width="300" height="300"> <br> <br>
  6. Nintendo, Sony и Activision за 2000-2015г. показывали наиболее стабильные годовые продажи видео-игр в среднем от 50 млн. $ . <br> <br>
+ <img src="images/video_game_sales/vg_sales_year_publisher.png" alt="vg_sales_year_publisher.png" width="300" height="300"> <br> <br>
  7. Пики продаж игр на консоли происходят в первые 5 лет после ее выхода. <br> <br>
  8. Только на PC и Nintendo DS игры выходят более 30 лет после появления этих платформ <br> <br>
  9. В Японии, Америке и Европе самым успешным издателем 1980-2025г. была Nintendo. В других регионах - Electronic Arts. <br> <br>
