@@ -124,6 +124,8 @@ Global_Sales max
 ## 5. Анализ продаж авокадо в США 2015-2018 года
 ### Датасет: [Avocado Prices and Sales Volume 2015-2023](https://www.kaggle.com/datasets/vakhariapujan/avocado-prices-and-sales-volume-2015-2023)
 ### Инструменты: Excel
+<img src="images/avocado_sales/ad_hoc.png" alt="ad_hoc.png" width="800" height="500"> <br> <br>
+<img src="images/avocado_sales/dashboard.png" alt="dashboard.png" width="800" height="500"> <br> <br>
 ### Ключевые инсайты:  <br>
 1. Рынок авокадо а также эта компание имеет хороший потенциал роста от 10% в год, если верить 2016-2017 годам.
 2. Регионы США, потребляющие авокадо более чем на 1 млрд $ за 3 года: West, California, South Central
