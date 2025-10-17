@@ -77,7 +77,6 @@ Global_Sales max
 <img src="images/video_game_sales/vg_sales_year_genre_distribution_EU_sales.png" alt="vg_sales_year_genre_distribution_EU_sales.png" width="300" height="300"> <br> <br>
 <img src="images/video_game_sales/vg_sales_year_genre_distribution_NA_sales.png" alt="vg_sales_year_genre_distribution_NA_sales.png" width="300" height="300"> <br> <br>
 <img src="images/video_game_sales/vg_sales_year_genre_distribution_other_sales.png" alt="vg_sales_year_genre_distribution_other_sales.png" width="300" height="300"> <br> <br>
-<img src="images/video_game_sales/vg_sales_year_genre_distribution1.png" alt="vg_sales_year_genre_distribution1.png" width="300" height="300"> <br> <br>
  
 ### Предложения для бизнеса:
   1. Издателям и разработчикам игр следует обращать внимание на действие Nintendo, EA. Ubisoft, Sony, Activision. Если есть коммерческая цель занять определенную нишу на рынке, можно обращать внимание на те области рынка, которые они не занимают либо постепенно теряют долю.
