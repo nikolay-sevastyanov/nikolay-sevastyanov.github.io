@@ -70,7 +70,7 @@ Global_Sales max
 ```
  10. За 1980-2017 г. во всем мире, кроме Японии, самым прибыльным жанром видео-игр оставлся экшн. В Японии же самый прибыльный жанр - RPG. <br> <br>
 <img src="images/video_game_sales/vg_sales_year_genre.png" alt="vg_sales_year_genre.png" width="300" height="300"> <br> <br>
- 11. Перспективным жанром для видеоигр после 2015 года является RPG. Стабильно 50% рынка занимают экшн и спорт.
+ 11. Перспективным жанром для видеоигр после 2015 года является RPG. Стабильно 50% рынка занимают экшн и спорт. <br> <br>
 <img src="images/video_game_sales/vg_sales_year_genre_distribution.png" alt="vg_sales_year_genre_distribution.png" width="300" height="300"> <br> <br>
 
 ### Предложения для бизнеса:
