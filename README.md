@@ -108,6 +108,7 @@ Global_Sales max
 1. Чем реже встречается слово, тем больше оно тяготеет либо к резко негативным, либо к очень позитивным отзывам. <br> <br>
 <img src="images/imdb_sentiment_analysis/100k+ word count.png" alt="100k+ word count.png" width="800" height="500"> <br> <br>
 <img src="images/imdb_sentiment_analysis/2.5-5k word count.png" alt="2.5-5k word count.png" width="800" height="500"> <br> <br>
+<img src="images/imdb_sentiment_analysis/1-2.5k.png" alt="1-2.5k.png" width="800" height="500"> <br> <br>
 2. Группы слов: <br> <br>
  а. Слова: **"a" , "both", "own", "real", "bit", "many", "cast"** имеют позитивную эмоциональную окраску 52-59% упоминаний в позитивных отзывах. <br>
  b. Слова: **"his", "her", "she"** имеют позитивную эмоциональную окраску - 52-59% упоминаний в позитивных отзывах <br>
@@ -118,7 +119,6 @@ Global_Sales max
 
 <img src="images/images/imdb_sentiment_analysis/15-100k word count.png" alt="2.5-5k word count.png" width="800" height="500"> <br> <br>
 <img src="images/imdb_sentiment_analysis/5-15k word count.png" alt="5-15k word count.png" width="800" height="500"> <br> <br>
-<img src="images/imdb_sentiment_analysis/2.5-5k word count.png" alt="2.5-5k word count.png" width="800" height="500"> <br> <br>
 
  
 ## 5. Анализ продаж авокадо в США 2015-2018 года
