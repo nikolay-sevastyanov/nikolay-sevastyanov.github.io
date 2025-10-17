@@ -118,7 +118,7 @@ Global_Sales max
  e. Слова: **"i'm", "thing", "movie", "director", "look", "do"** , "and" имеют негативную эмоциональную окраску - 38-45% упоминаний в позитивных отзывах. <br>
  f. Слова: **"money", "minutes", "reason", "guy", "camera, "script"** имеют резко негативную эмоциональную окраску - 29-40% упоминаний в позитивных отзывах. <br>
 
-<img src="images/images/imdb_sentiment_analysis/15-100k word count.png" alt="2.5-5k word count.png" width="800" height="500"> <br> <br>
+<img src="images/images/imdb_sentiment_analysis/15-100k word count.png" alt="15-100k word count.png" width="800" height="500"> <br> <br>
 <img src="images/imdb_sentiment_analysis/5-15k word count.png" alt="5-15k word count.png" width="800" height="500"> <br> <br>
 
  
