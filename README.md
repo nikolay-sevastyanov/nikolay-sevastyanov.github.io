@@ -107,7 +107,6 @@ Global_Sales max
 ### Ключевые инсайты: (представляющие наибольший интерес) <br> <br>
 1. Чем реже встречается слово, тем больше оно тяготеет либо к резко негативным, либо к очень позитивным отзывам. <br> <br>
 <img src="images/imdb_sentiment_analysis/100k+ word count.png" alt="100k+ word count.png" width="800" height="500"> <br> <br>
-<img src="images/imdb_sentiment_analysis/2.5-5k word count.png" alt="2.5-5k word count.png" width="800" height="500"> <br> <br>
 <img src="images/imdb_sentiment_analysis/1-2.5k.png" alt="1-2.5k.png" width="800" height="500"> <br> <br>
 
 2. Группы слов: <br> <br>
@@ -120,7 +119,7 @@ Global_Sales max
 
 <img src="images/imdb_sentiment_analysis/15-100k word count.png" alt="15-100k word count.png" width="800" height="500"> <br> <br>
 <img src="images/imdb_sentiment_analysis/5-15k word count.png" alt="5-15k word count.png" width="800" height="500"> <br> <br>
-
+<img src="images/imdb_sentiment_analysis/2.5-5k word count.png" alt="2.5-5k word count.png" width="800" height="500"> <br> <br>
  
 ## 5. Анализ продаж авокадо в США 2015-2018 года
 ### Датасет: [Avocado Prices and Sales Volume 2015-2023](https://www.kaggle.com/datasets/vakhariapujan/avocado-prices-and-sales-volume-2015-2023)
