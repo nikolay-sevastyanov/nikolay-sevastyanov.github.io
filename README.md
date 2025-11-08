@@ -22,43 +22,43 @@
 ###
 
 <div align="left">
-  <img src="images/logos/python_logo.jpg" height="40" alt="Python Logo"  />
+  <img src="images/logos/python_logo_1.jpg" height="40" alt="Python Logo"  />
   <img width="12" />
   
-  <img src="images/logos/pandas_logo.jpg" height="40" alt="Pandas Logo"  />
+  <img src="images/logos/pandas_logo_1.jpg" height="40" alt="Pandas Logo"  />
   <img width="12" />
   
-  <img src="images/logos/numpy_logo.jpg" height="40" alt="NumPy Logo"  />
+  <img src="images/logos/numpy_logo_1.jpg" height="40" alt="NumPy Logo"  />
   <img width="12" />
   
-  <img src="images/logos/matplotlib_logo.jpg" height="40" alt="Matplotlib Logo"  />
+  <img src="images/logos/matplotlib_logo_1.jpg" height="40" alt="Matplotlib Logo"  />
   <img width="12" />
   
-  <img src="images/logos/seaborn_logo.jpg" height="40" alt="Seaborn Logo"  />
+  <img src="images/logos/seaborn_logo_1.jpg" height="40" alt="Seaborn Logo"  />
   <img width="12" />
   
-  <img src="images/logos/postgresql_logo.jpg" height="40" alt="PostgreSQL Logo"  />
+  <img src="images/logos/postgresql_logo_1.jpg" height="40" alt="PostgreSQL Logo"  />
   <img width="12" />
   
-  <img src="images/logos/powerbi_logo.jpg" height="40" alt="Power BI Logo"  />
+  <img src="images/logos/powerbi_logo_1.jpg" height="40" alt="Power BI Logo"  />
   <img width="12" />
   
-  <img src="images/logos/excel_logo.jpg" height="40" alt="Excel Logo"  />
+  <img src="images/logos/excel_logo_1.jpg" height="40" alt="Excel Logo"  />
   <img width="12" />
   
-  <img src="images/logos/clickhouse_logo.jpg" height="40" alt="ClickHouse Logo"  />
+  <img src="images/logos/clickhouse_logo_1.jpg" height="40" alt="ClickHouse Logo"  />
   <img width="12" />
   
-  <img src="images/logos/greenplum_logo.jpg" height="40" alt="Greenplum logo"  />
+  <img src="images/logos/greenplum_logo_1.jpg" height="40" alt="Greenplum logo"  />
   <img width="12" />
   
-  <img src="images/logos/apache_airflow_logo.jpg" height="40" alt="Apache Airflow Logo"  />
+  <img src="images/logos/apache_airflow_logo_1.jpg" height="40" alt="Apache Airflow Logo"  />
   <img width="12" />
   
-  <img src="images/logos/jupyter_logo.jpg" height="40" alt="Jupyter Notebook Logo"  />
+  <img src="images/logos/jupyter_logo_1.jpg" height="40" alt="Jupyter Notebook Logo"  />
   <img width="12" />
   
-  <img src="images/logos/pycharm_logo.jpg" height="40" alt="PyCharm Logo"  />
+  <img src="images/logos/pycharm_logo_1.jpg" height="40" alt="PyCharm Logo"  />
 </div>
 
 ###
