@@ -58,5 +58,3 @@
   
   <img src="images/logos/pycharm_logo_1.png" height="40" alt="PyCharm Logo"  />
 </div>
-
-###
