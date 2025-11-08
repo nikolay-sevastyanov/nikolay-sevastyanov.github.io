@@ -19,8 +19,6 @@
 
 <h2 align="left">Мои инструменты</h2>
 
-###
-
 <div align="left">
   <img src="images/logos/python_logo_1.png" height="40" alt="Python Logo"  />
   <img width="12" />
