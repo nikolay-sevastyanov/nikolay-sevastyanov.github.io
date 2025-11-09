@@ -53,8 +53,4 @@
   <img src="images/logos/apache_airflow_logo_1.png" height="40" alt="Apache Airflow Logo"  />
   <img width="12" />
   
-  <img src="images/logos/jupyter_logo_1.png" height="40" alt="Jupyter Notebook Logo"  />
-  <img width="12" />
-  
-  <img src="images/logos/pycharm_logo_1.png" height="40" alt="PyCharm Logo"  />
 </div>
