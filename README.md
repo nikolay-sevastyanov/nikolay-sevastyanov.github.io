@@ -41,7 +41,7 @@
   <img src="images/logos/powerbi_logo_1.png" height="40" alt="Power BI Logo"  />
   <img width="12" />
   
-  <img src="images/logos/excel_logo.png" height="40" alt="Excel Logo"  />
+  <img src="images/logos/excel_logo_1.png" height="40" alt="Excel Logo"  />
   <img width="12" />
   
   <img src="images/logos/clickhouse_logo_1.png" height="40" alt="ClickHouse Logo"  />
