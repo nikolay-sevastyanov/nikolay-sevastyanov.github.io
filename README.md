@@ -15,6 +15,7 @@
 2. [Анализ финансовых показателей McDonalds 2002-2022](https://github.com/nikolay-sevastyanov/mc_fin)
 3. [Анализ оттока клиентов в телекоммуникационной компании.](https://github.com/nikolay-sevastyanov/telco_churn_prediction)
 4. [A/B тестирование - изменение экрана покупки.](https://github.com/nikolay-sevastyanov/purchase_button_ab_test)
+5. [Data-pipeline погодных данных](https://github.com/nikolay-sevastyanov/16_day_weather_data_layer)
 
 
 <h2 align="left">Мои инструменты</h2>
