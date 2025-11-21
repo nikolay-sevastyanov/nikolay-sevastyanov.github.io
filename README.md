@@ -12,9 +12,9 @@
 <h2 align="left">Мои проекты</h2>
 
 1. [Анализ рынка видеоигр 1985-2017 г.](https://github.com/nikolay-sevastyanov/video_game_sales)
-2. [Анализ финансовых показателей McDonalds 2002-2022](https://github.com/nikolay-sevastyanov/mc_fin)
-3. [Анализ оттока клиентов в телекоммуникационной компании.](https://github.com/nikolay-sevastyanov/telco_churn_prediction)
-4. [A/B тестирование - изменение экрана покупки.](https://github.com/nikolay-sevastyanov/purchase_button_ab_test)
+2. [Case-study финансовых показателей McDonalds 2002-2022г.](https://github.com/nikolay-sevastyanov/mc_fin)
+3. [Изучение оттока клиентов в телекоммуникационной компании](https://github.com/nikolay-sevastyanov/telco_churn_prediction)
+4. [A/B тестирование - изменение экрана покупки](https://github.com/nikolay-sevastyanov/purchase_button_ab_test)
 5. [Data-pipeline погодных данных](https://github.com/nikolay-sevastyanov/16_day_weather_data_layer)
 
 
